@@ -1,4 +1,5 @@
 ---
+permalink: /URLs/
 ---
 
 # Kumpulan URL

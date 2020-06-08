@@ -3,13 +3,11 @@
 
 # Cicak Bin Kadal
 
-Namaku Cicak Bin Kadal!
+* Namaku Cicak Bin Kadal!
 
-<img src="cbk.jpg" width="512">
+* [URLs](URLs/)
 
-
-[URLS](url/)
-
+<img src="cbk.jpg" width="256">
 
 -- CBK.
 
